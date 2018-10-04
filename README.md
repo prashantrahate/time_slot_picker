@@ -7,7 +7,7 @@ A library for picking time slot from horizontal strip.
 1.0 Add this to your package's pubspec.yaml file:
 ```dart
 dependencies:
-  time_slot_picker: ^1.0.0
+  time_slot_picker: ^0.0.1
 ```
 
 2.1 Install it with pub:
